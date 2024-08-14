@@ -36,21 +36,11 @@ Dans ce site internet, il sera possible en fonction du rôle de :
 - Début projet => 24/10/2023 
 - Fin projet => 05/03/2024
 
-## RÔLES DE L'EQUIPE :
-Arthur Valentim => https://github.com/Valentin460
-- Ajout page profil utilisateur
-- Ajout page des différents plans
-
-Hicham Sagout => https://github.com/SagoutiHicham
-- Ajout page création d'une organisation
-
-Moussi Sid-Ahmed => https://github.com/Sid-Ahmed7
-- Ajout page demande de devis
-- Ajout page upload images/documents
+## L'EQUIPE :
+Hicham Sagouti => https://github.com/SagoutiHicham
 
 Leonce Yopa => https://github.com/zaengetsu
-- Ajout page d'inscription et de connexion
-- Ajout page gestion des médias
 
+Ibrahim Ouahabi => https://github.com/Narutino10
   
 docker exec -it projet_iw4-web-1 bash// acces au conteneur 
